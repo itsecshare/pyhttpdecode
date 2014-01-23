@@ -1,0 +1,4 @@
+pyhttpdecode
+============
+
+Gzip Decoder (Python)
